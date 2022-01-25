@@ -1,0 +1,31 @@
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#list{
+    
+}
+.nav{
+    list-style: none;
+}
+.nav-item{
+    display: inline-block;
+    padding: 10px;
+    
+    
+}
+.nav-link{
+    text-decoration: none;
+    color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.nav-link:hover{
+    color: green;
+    text-decoration: underline;
+}
+.font{
+    font-size: large;
+}
